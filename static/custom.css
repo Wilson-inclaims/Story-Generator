@@ -1,0 +1,20 @@
+#line_chart {
+    width: 70%;
+    height: 500px;
+    max-width: 70%;
+    margin:auto;
+}
+#pie_chart {
+    width: 70%;
+    height: 500px;
+    max-width: 70%;
+    margin: auto;
+}
+.demo_mv_wrapper {
+    width: 90%;
+    max-width: 90%;
+    margin: auto;
+}
+.upload_form {
+    /*margin: auto;*/
+}
